@@ -1,0 +1,8 @@
+# Zeolite_Oxygen_Classification
+Code that assesses which zeolite rings an oxygen is associated with. 
+
+See the Jupyter Notebook for Python implementation and example usage.
+
+Requires Atomic Simulation Environment.
+
+If you use this for your research please reach out to me for citation. 
