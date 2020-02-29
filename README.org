@@ -1,4 +1,4 @@
-# Zeolite_Oxygen_Classification
+* Zeolite_Oxygen_Classification
 Code that assesses which zeolite rings an oxygen is associated with. 
 
 See the Jupyter Notebook for Python implementation and example usage.
