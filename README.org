@@ -1,5 +1,5 @@
 * Update:
-This code has been improved upon and is now included in the [[Zeolite Simulation Environment][github.com/jtcrum/zse]]. Please use ZSE for accurate and efficient results. 
+This code has been improved upon and is now included in the [[github.com/jtcrum/zse][Zeolite Simulation Environment]]. Please use ZSE for accurate and efficient results. 
 
 * Zeolite_Oxygen_Classification
 Code that assesses which zeolite rings an oxygen is associated with. 
